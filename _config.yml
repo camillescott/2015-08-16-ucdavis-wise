@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "https://github.com/camillescott/2015-WiSE-workshop"
-workshop_site   : "http://camillescott.github.io/2015-WiSE-workshop"
+workshop_repo   : "https://github.com/camillescott/2015-08-16-ucdavis-wise"
+workshop_site   : "http://camillescott.github.io/2015-08-16-ucdavis-wise"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
