@@ -28,13 +28,13 @@ These lessons will start you on a path towards using these resources effectively
 >
 > You need to download some files to follow this lesson:
 > 
-> 1. Make a new folder in your Desktop called `shell-intermediate`.
-> 2. Download [shell-intermediate-data.zip](./shell-intermediate-data.zip) and move the file to this folder.
+> 1. Make a new folder in your Desktop called `shell-novice`.
+> 2. Download [shell-novice-data.zip](./shell-novice-data.zip) and move the file to this folder.
 > 3. If it's not unzipped yet, double-click on it to unzip it. You should end up with a new folder called `data`.
 > 4. You can access this folder from the Unix shell with:
 >
 > ~~~ {.input}
-> $ cd && cd Desktop/shell-intermediate/data/users/nelle
+> $ cd && cd Desktop/shell-novice/data/users/nelle
 > ~~~
 
 ## Topics
@@ -46,10 +46,10 @@ These lessons will start you on a path towards using these resources effectively
 5.  [Loops](04-loop.html)
 6.  [Shell Scripts](05-script.html)
 7.  [Finding Things](06-find.html)
-# 8.  [Permissions](07-perm.html)
-# 9.  [Working Remotely](08-ssh.html)
-# 10. [Variables](09-var.html)
-# 11. [Job Control](10-job.html)
+8.  [Permissions](07-perm.html)
+9.  [Working Remotely](08-ssh.html)
+10. [Variables](09-var.html)
+11. [Job Control](10-job.html)
 
 ## Other Resources
 
